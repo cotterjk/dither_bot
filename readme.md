@@ -1,6 +1,6 @@
 ## [@dither.bot](https://www.instagram.com/dither.bot/) generates a random duo-tone dithered detail from my film photography archive.
 
-In [image processing, dithering](https://en.wikipedia.org/wiki/Dither#Digital_photography_and_image_processing) creates the illusion of continuous shadings by varying the densities of pixels that are only either "on" or "off." It can be a cool effect.
+#### In [image processing, dithering](https://en.wikipedia.org/wiki/Dither#Digital_photography_and_image_processing) creates the illusion of continuous shadings by varying the densities of pixels that are only either "on" or "off." It can be a cool effect.
 
 ### sample post
 ![caption](to_post/d_img.png)
