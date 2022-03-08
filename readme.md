@@ -15,7 +15,7 @@
 
 ### What's automatic?
 - `ditherer.py` is run via [cron job](https://en.wikipedia.org/wiki/Cron) on my laptop every 5 hours, overwriting a fresh image and caption in `to_post/`. This folder is synced to my Dropbox account.
-- Every morning, a [Shortcut](https://apps.apple.com/us/app/shortcuts/id915249334) on my phone reads to image from Dropbox, opens Instagram, prompts me to post the image, and copies the caption value in `caption.json` to my phone's clipboard.
+- Every morning, a [Shortcut](https://apps.apple.com/us/app/shortcuts/id915249334) on my phone reads the image from Dropbox, opens Instagram, prompts me to post the image, and copies the caption value in `caption.json` to my phone's clipboard.
 
 The small gap in automation (requiring me to paste a caption and tap Post) is due to Instagram's crackdown on bots with automated login and posting scripts.
 
