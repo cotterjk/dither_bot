@@ -16,7 +16,7 @@
 - The source photos are a small subset of all the film I get developed and scanned, culled for hopefully interesting subjects, shapes, and textures in an arbitrary crop.
 
 ### What's automatic?
-- `ditherer.py` is run via [cron job](https://en.wikipedia.org/wiki/Cron) on my laptop every 5 hours, overwriting a fresh image and caption in `to_post/`. This folder is synced to my Dropbox account.
+- `ditherer.py` is run via [cron job](https://en.wikipedia.org/wiki/Cron) on my laptop every morning, overwriting a fresh image and caption in `to_post/`. This folder is synced to my Dropbox account.
 - Every morning, a [Shortcut](https://apps.apple.com/us/app/shortcuts/id915249334) on my phone reads the image from Dropbox, opens Instagram, prompts me to post the image, and copies the caption value in `caption.json` to my phone's clipboard.
 
 The small gap in automation (requiring me to paste a caption and tap Post) is due to Instagram's crackdown on bots with automated login and posting scripts.
@@ -24,4 +24,4 @@ The small gap in automation (requiring me to paste a caption and tap Post) is du
 ### Inspired by:
 - [Low-Tech Magazine](https://solar.lowtechmagazine.com/2018/09/how-to-build-a-lowtech-website/)'s principles and aesthetic.
 - Gameboy graphics
-- 1-bit art
+- 1-bit art and [experiences](https://obradinn.com/)
