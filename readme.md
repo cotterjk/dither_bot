@@ -12,7 +12,7 @@
 - The size of the crop, dithered and resized to 256x256 "pixels."
 
 ### What's controlled?
-- The light and dark colors are subsets of the [named colors](https://github.com/python-pillow/Pillow/blob/12028c9789c3c6ac15eb147a092bfc463ebbc398/src/PIL/ImageColor.py) recognized by the Python Imaging Library fork [Pillow](https://github.com/python-pillow/Pillow/tree/12028c9789c3c6ac15eb147a092bfc463ebbc398), itself based on [CSS's named colors](https://drafts.csswg.org/css-color-4/#named-colors). I culled for light/dark contrast, colors I found pretty, and redundancy (sooo many off-whites.)
+- The light and dark colors are subsets of the [named colors](https://github.com/python-pillow/Pillow/blob/12028c9789c3c6ac15eb147a092bfc463ebbc398/src/PIL/ImageColor.py) recognized by the Python Imaging Library fork [Pillow](https://github.com/python-pillow/Pillow/tree/12028c9789c3c6ac15eb147a092bfc463ebbc398), itself based on [CSS's named colors](https://css-tricks.com/snippets/css/named-colors-and-hex-equivalents/). I culled for light/dark contrast, colors I found pretty, and redundancy (sooo many off-whites.)
 - The source photos are a small subset of all the film I get developed and scanned, culled for hopefully interesting subjects, shapes, and textures in an arbitrary crop.
 
 ### What's automatic?
