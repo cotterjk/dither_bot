@@ -24,4 +24,4 @@ The small gap in automation (requiring me to paste a caption and tap Post) is du
 ### Inspired by:
 - [Low-Tech Magazine](https://solar.lowtechmagazine.com/2018/09/how-to-build-a-lowtech-website/)'s principles and aesthetic.
 - Gameboy graphics
-- 1-bit art and [experiences](https://obradinn.com/)
+- 1-bit art and [games](https://obradinn.com/)
